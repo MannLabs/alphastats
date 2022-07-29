@@ -18,11 +18,13 @@ The tool allows a structured workflow like importing data, preprocessing data an
    :maxdepth: 2
    :caption: Contents:
 
+   Introduction.md
    installation.md
    import_data.md
-   workflow_maxquant.ipynb
+   data_preprocessing.md
+   plots.rst
+   workflow_mq.ipynb
    API <api_reference/index>
-   references.md
 
 
 
